@@ -1,5 +1,5 @@
 {
-  "name": "gRPC-proto-training",
+  "name": "gRPC-proto training",
   "version": "1.0.0",
   "description": "gRPC, proto training",
   "main": "src/index.js",
