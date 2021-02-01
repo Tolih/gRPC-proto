@@ -1,0 +1,24 @@
+{
+  "name": "gRPC-proto-training",
+  "version": "1.0.0",
+  "description": "gRPC, proto training",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolih/gRPC-proto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tolih/gRPC-proto/issues"
+  },
+  "homepage": "https://github.com/Tolih/gRPC-proto#readme",
+  "dependencies": {
+    
+  }
+}
