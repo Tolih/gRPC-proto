@@ -1,10 +1,11 @@
 {
-  "name": "gRPC-proto training",
+  "name": "grpc-proto-training",
   "version": "1.0.0",
   "description": "gRPC, proto training",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index",
+    "client": "node src/client",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/Tolih/gRPC-proto#readme",
   "dependencies": {
-    
+    "@grpc/proto-loader": "^0.5.0",
+    "@grpc/grpc-js": "^1.1.0"
   }
 }

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package helloworld;
+
+service salomBer {
+  rpc qalesan (HelloRequest) returns (HelloReply) {}
+}
+
+message HelloRequest {
+  string kimga = 1;
+}
+
+// The response message containing the greetings
+message HelloReply {
+  string javob = 1;
+}
